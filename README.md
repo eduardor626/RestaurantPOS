@@ -21,3 +21,9 @@ Adding Two Tables          |  Adding Multiple Tables
 ![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/UserHomeTable3.PNG)  | ![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/UserHomeTable4.PNG)
 
 ### Taking the Order of a Table
+
+Now the employee has the option of taking the table's order by pressing the certain table number. Once the employee does this the Order Menu window is displayed. The Order Menu lists the variety of food that is available in the restaurant. (I served at an Asian American restaurant, hence the food names). The user then goes through pressing which category to choose from. Beverages, Starters, Chicken, Beef, Vegeterian, etc. 
+
+Order Menu        |  Selecting Items from Menu
+:-------------------------:|:-------------------------:
+![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/Menu.PNG)  | ![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/Menu2.PNG)
