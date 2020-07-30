@@ -10,9 +10,10 @@ Login View            |  Login User
 ![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/LoginMenu.PNG)  |  ![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/LoginMenu2.PNG)
 
 ### Employee Home Menu
-When employee's ID is verified, their home screen window is displayed. They have the option from a variety of buttons to select their choice. When pressing Table they are prompted to enter a Table Number.
+When employee's ID is verified, their home screen window is displayed. They have the option from a variety of buttons to select their choice. When pressing Table they are prompted to enter a Table Number. They can input their table number and the table's button will now appear on their home screen.
 
 User Home           |  When User Selects New Table
 :-------------------------:|:-------------------------:
 ![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/UserHome.PNG)  |  ![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/UserHomeTable.PNG)
+![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/UserHomeTable3.PNG) | ![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/UserHomeTable4.PNG)
 
