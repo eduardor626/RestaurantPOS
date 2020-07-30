@@ -42,5 +42,12 @@ The employee collects the form of payment and and inputs the amount given. If th
 
 ## Key Take Aways:
 ```
-This was a very fun program to do. The code is not at all the prettiest but getting things to look 'nice' definitely made it an interesting mini project. There is many buttons that are not implemented such as the Tips, Sales, Break, Clock Out buttons on the home screen. The Payment Menu was my "get it done" part of the project and I could've included icons of the corresponding dollar bills on each button. Overall, it was fun learning and putting together something quick in Java that really introduced me to the GUI side of programming. It could've been so much cleaner if I had used certain data structures or proper proportions of Panels in Swing. But overall, fun project and definitely good to see how much I've grown over the years.
+This was a very fun program to do. The code is not at all the prettiest but getting things to 
+look 'nice' definitely made it an interesting mini project. There is many buttons that are 
+not implemented such as the Tips, Sales, Break, Clock Out buttons on the home screen. The Payment 
+Menu was my "get it done" part of the project and I could've included icons of the corresponding 
+dollar bills on each button. Overall, it was fun learning and putting together something quick in 
+Java that really introduced me to the GUI side of programming. It could've been so much cleaner 
+if I had used certain data structures or proper proportions of Panels in Swing. But overall, fun 
+project and definitely good to see how much I've grown over the years. Cheers!
 ```
