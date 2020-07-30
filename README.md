@@ -15,7 +15,9 @@ When the employee's ID is verified their home screen window is displayed. They a
 User Home           |  When User Selects New Table
 :-------------------------:|:-------------------------:
 ![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/UserHome.PNG)  |  ![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/UserHomeTable.PNG)
-![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/UserHomeTable3.PNG) 
-adding two Tables | ![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/UserHomeTable4.PNG)
-adding multiple Tables
 
+Adding Two Tables          |  Adding Multiple Tables
+:-------------------------:|:-------------------------:
+![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/UserHomeTable3.PNG)  | ![](https://github.com/eduardor626/RestaurantPOS/blob/master/images/UserHomeTable4.PNG)
+
+### Taking the Order of a Table
